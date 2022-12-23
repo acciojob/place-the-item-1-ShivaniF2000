@@ -2,10 +2,24 @@
     display: flex;
     justify-content: space-between;
     flex: wrap;
+    width: 100%;
+    height: 100%;
+    background-color: aqua;
+    border: 1px solid white;
 }
 
-.item {
+.item1 {
     width: 100px;
     height: 100px;
-    background-color: lightblue;
+    background-color:black;
+}
+.item2 {
+    width: 100px;
+    height: 100px;
+    background-color:red;
+}
+.item3 {
+    width: 100px;
+    height: 100px;
+    background-color: navy;
 }
